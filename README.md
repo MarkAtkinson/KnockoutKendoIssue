@@ -7,3 +7,4 @@ An error ("Array length must be a finite positive integer") is thrown after rend
 and the knockout.mapping JS library are included on a page.
 
 The bar chart still looks correct and seems to behave normally.  Any subsequent chart does not render.
+
